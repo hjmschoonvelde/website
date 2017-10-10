@@ -14,6 +14,6 @@ description:
 - Competition in Media Systems and Voter Knowledge: An Agent-Based Model [Link](https://osf.io/u7wbr/)
 
 *Working Papers*
-- Evaluating Complexity in Political Speech (with Anna Brosius, Bert Bakker and Gijs Schumacher) 2017 Extending the Use of Text as Data in Political Science: an Overview, an Assessment and a
-Cautious Invitation (with Bert Bakker and Gijs Schumacher)
+- Evaluating Complexity in Political Speech (with Anna Brosius, Bert Bakker and Gijs Schumacher)
+- Extending the Use of Text as Data in Political Science: an Overview, an Assessment and a Cautious Invitation (with Bert Bakker and Gijs Schumacher)
 - Preaching to the Choir or Pandering to the Skeptics? Public Communication of Supra- and Intergovernmental Executives in Times of EU Politicization (with Bart Bes and Christian Rauh) 
