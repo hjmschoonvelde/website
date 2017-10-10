@@ -5,7 +5,7 @@ name: Martijn Schoonvelde
 email: mschoonvelde@gmail.com
 description:
 
-url: hjmschoonvelde.github.io  # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 baseurl: /website # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
