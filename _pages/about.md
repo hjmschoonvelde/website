@@ -19,6 +19,4 @@ Before this, I was a Max Weber Fellow at the European University Institute in Fl
 
 My interests include comparative political behavior, EU politics and automated text analysis. I tweet under [hjms](http://www.twitter.com/hjms).
 
-Best,
-
 Martijn Schoonvelde
