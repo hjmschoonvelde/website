@@ -11,7 +11,7 @@ In various academic fields texts are analysed for indicators of speaker personal
 
 To learn more about these developments, we are forming a multidisciplinary group of interested and active researchers in the Netherlands by means of a regularly occurring seminar in which best practices in applied work, new methodologies, and substantive new findings are exchanged and discussed. We aim for a group of committed members who intend to participate on a regular basis.
 
-Programme of the fourth *Mind, Text, and Mining seminar*:
+Program of the fourth *Mind, Text, and Mining seminar*:
 
 * Welcome by dr. Martijn Schoonvelde (Vrije Universiteit)
 * Presentation by dr. Mark Dechesne (Leiden University): "Episode Analysis: Applying factor analyses to identify episodes in political and historical texts"
@@ -25,6 +25,6 @@ The number of participants is limited. If you want to participate, please send a
 
 Kind regards,
 
-Milan van Lange (NIOD)
-Martijn Schoonvelde (Vrije Universiteit)
+Milan van Lange (NIOD),
+Martijn Schoonvelde (Vrije Universiteit),
 Mark Dechesne (Leiden University)
