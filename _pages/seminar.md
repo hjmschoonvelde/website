@@ -13,10 +13,18 @@ To learn more about these developments, we are forming a multidisciplinary group
 
 Programme of the fourth *Mind, Text, and Mining seminar*:
 
-* Welcome by dr. Martijn Schoonvelde (VU University)
+* Welcome by dr. Martijn Schoonvelde (Vrije Universiteit)
 * Presentation by dr. Mark Dechesne (Leiden University): "Episode Analysis: Applying factor analyses to identify episodes in political and historical texts"
 * Roundtable discussion on clustering techniques in biographical and political texts
-* Date and time: **December 14th | 3-5PM** (we will start at 3 PM sharp!)
+
+
+Date and time: **December 14th | 3-5PM** (we will start at 3 PM sharp!)
 Location: **The Hague, at Leiden University – Faculty of Governance and Global Affairs, Schouwburgstraat 2, 2511 VA, The Hague, Room: B.04.02.**
 
 The number of participants is limited. If you want to participate, please send an email to Martijn Schoonvelde (h.j.m.schoonvelde[at]vu.nl).
+
+Kind regards,
+
+Milan van Lange (NIOD)
+Martijn Schoonvelde (Vrije Universiteit)
+Mark Dechesne (Leiden University)
