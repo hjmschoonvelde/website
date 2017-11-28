@@ -9,7 +9,6 @@ description:
 *Under review*
 
 - Errors Have Been Made, Others Will Be Blamed: Blame Avoidance and Blame-Shifting in Prime Minister Speeches During the Economic Crisis in Europe (with Denise Traber and Gijs Schumacher) [Link](https://osf.io/kg6qs/)
-- Model Choices in Observational Media Effects Research: A Systematic Review and Validation (with with Susan Banducci, Jason Barabas, Jennifer Jerit, William Pollock and Dan Stevens) [Link](https://osf.io/y3zmp)
 - Turning the Thermostat: Does the Media Drive the Effect of Policy Spending on Public Preferences? (with Christopher Williams) [Link](https://osf.io/ymvfb)
 - Competition in Media Systems and Voter Knowledge: An Agent-Based Model [Link](https://osf.io/u7wbr/)
 
