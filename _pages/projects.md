@@ -6,7 +6,7 @@ description:
 ---
 
 
-*Under review*
+*Under Review*
 
 - Errors Have Been Made, Others Will Be Blamed: Blame Avoidance and Blame-Shifting in Prime Minister Speeches During the Economic Crisis in Europe (with Denise Traber and Gijs Schumacher) [Link](https://osf.io/kg6qs/)
 - Turning the Thermostat: Does the Media Drive the Effect of Policy Spending on Public Preferences? (with Christopher Williams) [Link](https://osf.io/ymvfb)
