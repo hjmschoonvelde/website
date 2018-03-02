@@ -17,7 +17,7 @@ Benchmark to Investigate the Performance of Self-Reported Media Exposure." *Comm
 
 William Pollock, Jason Barabas, Jennifer Jerit, **Martijn Schoonvelde**, Susan Banducci & Daniel Stevens. 2015. "Studying Media Events in the European Social Surveys Across Research Designs, Countries, Time, Issues, and Outcomes." *European Political Science, 14(4)*: 394--421. [Paper]({{ site.url }}/assets/pdf/EPS.pdf) / Replication materials (please contact Jennifer Jerit)
 
-**Martijn Schoonvelde**. 2014. "Media Freedom and the Institutional Underpinnings of Political Knowledge." *Political Science Research & Methods, (2,2)*: 163--178. [Paper]({{ site.url }}/assets/pdf/Schoonvelde_PSRM.pdf) / [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/24122) 
+**Martijn Schoonvelde**. 2014. "Media Freedom and the Institutional Underpinnings of Political Knowledge." *Political Science Research & Methods, 2(2)*: 163--178. [Paper]({{ site.url }}/assets/pdf/Schoonvelde_PSRM.pdf) / [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/24122) 
 
 *Conference Proceedings*
 
