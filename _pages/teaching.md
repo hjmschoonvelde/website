@@ -8,7 +8,7 @@ description:
 
 At Stony Brook University and the Vrije Universiteit Amsterdam I have taught courses at both the undergraduate and the graduate level. In addition, I received a teaching certificate at the European University Institute. Evaluations are available upon request:
 
-- MA Course *Automated Text Analysis in Political Science* (Central European University, Spring 2018): Introduction to [Syllabus]({{ site.url }}/assets/pdf/Syllabus_CEU.pdf) [Course Materials](https://github.com/hjmschoonvelde/ceu_ata)
+- MA Course *Automated Text Analysis in Political Science* (Central European University, Spring 2018): Introduction to [Syllabus]({{ site.url }}/assets/pdf/Syllabus_CEU.pdf) / [Course Materials](https://github.com/hjmschoonvelde/ceu_ata)
 - MA Course *Comparative Public Policy and Politics* (Vrije Universiteit, Spring 2018): Comparative public policy course [Syllabus]({{ site.url }}/assets/pdf/Syllabus_CPP.pdf)
 - BA Course *Comparative Political Research* (Vrije Universiteit, Fall 2015, Fall 2016): Introduction to concepts, content, and conduct of comparative political research to second-year bachelor's students. [Syllabus]({{ site.url }}/assets/pdf/Syllabus_CPR.pdf)
 - MA Course *Intermediate Statistics for Public Policy* (Stony Brook University, Fall 2011, Spring 2012): OLS Regression and Violations of Gauss Markov Assumptions. [Syllabus]({{ site.url }}/assets/pdf/Syllabus_POL_502.pdf)
