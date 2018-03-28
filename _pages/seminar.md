@@ -7,7 +7,7 @@ description:
 
 *Mind, Text and Mining seminar*
 
- ![Syllabus]({{ site.url }}/assets/img/mtm.jpg =100x20)
+ ![mtm]({{ site.url }}/assets/img/mtm.jpg)
 
 In various academic fields texts are analysed for indicators of speaker personality, or speaker emotions like disgust, anger, and happiness: concepts which have been shown to drive political behaviour or to represent opinions, attitudes or emotionality in relation to certain topics. Quantitative analysis or ‘mining’ of these psychological constructs in the study of historical, social, and political phenomena is burgeoning.
 
