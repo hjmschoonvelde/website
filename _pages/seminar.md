@@ -12,7 +12,7 @@ description:
  David, who works as a Data Scientist at the FD Media Group, will give a talk titled *Financial News Mining*:
 
 * Where: Main Building, Vrije Universiteit, HG-1D22 Forum 5
-* When: 27 May 2018
+* When: 17 May 2018
 * What time: 3-5PM
 * Registration: if you want to participate, please send an email to Martijn Schoonvelde (h.j.m.schoonvelde[at]vu.nl).
 * Abstract of the talk:
