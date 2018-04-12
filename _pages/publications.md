@@ -8,7 +8,7 @@ description:
 
 *Peer-Reviewed Articles*
 
-Erik de Vries, **Martijn Schoonvelde** & Gijs Schumacher. 2017. "No Longer Lost in Translation. Evidence that Google Translate Works for Comparative Bag-of-Words Text Applications." Conditional Acceptance at *Political Analysis*. (Replication materials coming soon)
+Erik de Vries, **Martijn Schoonvelde** & Gijs Schumacher. 2018. "No Longer Lost in Translation. Evidence that Google Translate Works for Comparative Bag-of-Words Text Applications." Conditional Acceptance at *Political Analysis*. (Replication materials coming soon)
 
 Susan Banducci, **Martijn Schoonvelde**, Daniel Stevens, Jason Barabas, Jennifer Jerit & William Pollock. 2017. "Model Choices in Observational Media Effects Research: A Systematic Review and Validation of Effects." *Political Science, 69(3)*: 227--246. [Paper]({{ site.url }}/assets/pdf/PS.pdf) / [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7FYH0T)
 

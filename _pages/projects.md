@@ -14,5 +14,5 @@ description:
 - Friends With Text as Data Benefits: Assessing and Extending the Use of Automated Text Analysis in Political Science and Political Psychology (with Bert Bakker and Gijs Schumacher) [Paper](https://osf.io/vzykp/)
 
 *Working Papers*
-- Evaluating Complexity in Political Speech (with Anna Brosius, Bert Bakker and Gijs Schumacher)
-- Undermining, obfuscating, or defending European integration? Public communication of European executives in times of EU politicization  (with Bart Bes and Christian Rauh)
+- Liberals Lecture, Conservatives Communicate (with Anna Brosius, Bert Bakker and Gijs Schumacher)
+- Undermining, defusing, or defending European integration? Public communication of European executives in times of EU politicization  (with Bart Bes and Christian Rauh)
