@@ -17,6 +17,6 @@ Welcome! I am a Postdoctoral Fellow in Political Science at the Vrije Universite
 
 Before this, I was a Max Weber Fellow at the European University Institute in Florence, and a research fellow at the University of Exeter. I received my PhD from [Stony Brook University](http://stonybrook.edu/polsci).  
 
-My interests include comparative political behavior, EU politics and automated text analysis. I tweet under [hjms](http://www.twitter.com/hjms).
+My interests include comparative political behavior, political communication, EU politics, computational social science, and automated text analysis. I tweet under [hjms](http://www.twitter.com/hjms).
 
 Martijn Schoonvelde
