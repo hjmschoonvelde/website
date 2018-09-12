@@ -8,9 +8,9 @@ description:
 
 *Peer-Reviewed Articles*
 
-Erik de Vries, **Martijn Schoonvelde** & Gijs Schumacher. 2018. "No Longer Lost in Translation. Evidence that Google Translate Works for Comparative Bag-of-Words Text Applications." Forthcoming at *Political Analysis*. [Pre-print](https://osf.io/cuxha) / [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VKMY6N)
-
 Christopher Williams & **Martijn Schoonvelde**. 2018. "It Takes Three: How Mass Media Coverage Conditions Public Responsiveness to Policy Outputs in the United States." Forthcoming at *Social Science Quarterly*. [Pre-print](https://osf.io/ymvfb) / [Replication Materials](http://christopherwilliamsphd.weebly.com/data.html)
+
+Erik de Vries, **Martijn Schoonvelde** & Gijs Schumacher. 2018. "No Longer Lost in Translation. Evidence that Google Translate Works for Comparative Bag-of-Words Text Applications." *Political Analysis*: 1--14. doi:10.1017/pan.2018.26. [Paper](https://www.cambridge.org/core/journals/political-analysis/article/no-longer-lost-in-translation-evidence-that-google-translate-works-for-comparative-bagofwords-text-applications/43CB03805973BB8AD567F7AE50E72CA6) / [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VKMY6N)
 
 Susan Banducci, **Martijn Schoonvelde**, Daniel Stevens, Jason Barabas, Jennifer Jerit & William Pollock. 2017. "Model Choices in Observational Media Effects Research: A Systematic Review and Validation of Effects." *Political Science, 69(3)*: 227--246. [Paper]({{ site.url }}/assets/pdf/PS.pdf) / [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7FYH0T)
 
