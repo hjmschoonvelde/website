@@ -23,11 +23,11 @@ _Seminar with Marij Swinkels about cognitive mapping. During this seminar Marij 
 
   * **About the speaker:** Marij Swinkels is a PhD candidate and lecturer at the Utrecht University School of Governance. In her PhD, she focuses on how European political leaders make use of economic ideas in the Eurozone crisis to explain the causes, consequences and solutions of the crisis.
 
-  * **Date and time:** November 18, 2018, 3-5PM (we will start at 3 PM sharp!)
+  * **Date and time:** November 22, 2018, 3-5PM (we will start at 3 PM sharp!)
 
   * **Location:** University of Amsterdam, room TBD
 
-**About the seminar:** _In various academic fields texts are analysed for indicators of speaker personality, or speaker emotions like disgust, anger, and happiness: concepts which have been shown to drive political behaviour or to represent opinions, attitudes or emotionality in relation to certain topics. Quantitative analysis of these psychological constructs in the study of historical, social, and political phenomena is burgeoning._
+**About the seminar:** _In various academic fields texts are analysed for indicators of speaker personality, or speaker emotions like disgust, anger, and happiness: concepts which have been shown to drive political behavior or to represent opinions, attitudes or emotionality in relation to certain topics. Quantitative analysis of these psychological constructs in the study of historical, social, and political phenomena is burgeoning._
 
 _To learn more about these developments, we have formed a multidisciplinary group of interested and active researchers in the Netherlands by means of a regularly occurring seminar in which best practices in applied work, new methodologies, and substantive new findings are exchanged and discussed. We aim for a group of committed members who intend to participate on a regular basis._
 
