@@ -8,7 +8,7 @@ description:
 
 *Peer-Reviewed Articles*
 
-**Martijn Schoonvelde**, Gijs Schumacher & Bert Bakker. 2018. "Friends With Text as Data Benefits: Assessing and Extending the Use of Automated Text Analysis in Political Science and Political Psychology." Forthcoming at *Journal of Social and Political Psychology*. [Pre-print](https://osf.io/vzykp/)
+**Martijn Schoonvelde**, Gijs Schumacher & Bert Bakker. 2018. "Friends With Text as Data Benefits: Assessing and Extending the Use of Automated Text Analysis in Political Science and Political Psychology." Forthcoming at *Journal of Social and Political Psychology*. [Pre-print](https://osf.io/vzykp/) / Replication materials coming soon
 
 Christopher Williams & **Martijn Schoonvelde**. 2018. "It Takes Three: How Mass Media Coverage Conditions Public Responsiveness to Policy Outputs in the United States." Forthcoming at *Social Science Quarterly*. [Pre-print](https://osf.io/ymvfb) / [Replication Materials](http://christopherwilliamsphd.weebly.com/data.html)
 
