@@ -8,12 +8,12 @@ description:
 
 **Program of the 8th Mind, Text, and Mining seminar:** 
 
-_Seminar with Pier Tortola (University of Groningen): *The charismatic leadership of the ECB presidency: A language-based analysis*
+Seminar with Pier Tortola (University of Groningen): *The charismatic leadership of the ECB presidency: A language-based analysis*
 
 
   * **About the speaker:** Pier Tortola is a political scientist working at the University of Groningen, where he is Assistant Professor in the department of European Languages and Cultures.
   
-  * **Abstract: ** There is little doubt that the European Central Bank (ECB), and in particular its presidency, has taken the lead in tackling the euro crisis. But can this leadership be also characterised as charismatic? This article answers the question by focusing on language -- a key component as well as a reliable indicator of charisma. By means of a software?assisted content analysis of the entire corpus of ECB presidential speeches, it is found that the crisis has indeed led to the emergence of the Bank's presidency as a charismatic euro leader. This in turn confirms the recent politicisation of the ECB, but at the same time might be seen as mitigating the problems related to the Bank's democratic deficit, to the extent that charisma can be seen, from a Weberian standpoint, as an alternative source of political legitimacy.
+  * **Abstract:** There is little doubt that the European Central Bank (ECB), and in particular its presidency, has taken the lead in tackling the euro crisis. But can this leadership be also characterised as charismatic? This article answers the question by focusing on language -- a key component as well as a reliable indicator of charisma. By means of a software-assisted content analysis of the entire corpus of ECB presidential speeches, it is found that the crisis has indeed led to the emergence of the Bank's presidency as a charismatic euro leader. This in turn confirms the recent politicisation of the ECB, but at the same time might be seen as mitigating the problems related to the Bank's democratic deficit, to the extent that charisma can be seen, from a Weberian standpoint, as an alternative source of political legitimacy.
   
   * **Date and time:** November 22, 2018, 3-5PM (we will start at 3 PM sharp!)
 
