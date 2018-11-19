@@ -10,6 +10,8 @@ description:
 
 **Martijn Schoonvelde**, Anna Brosius, Gijs Schumacher & Bert Bakker. (n.d.). "Liberals Lecture, Conservatives Communicate." Forthcoming at *PLOS ONE*. [Pre-print](https://osf.io/xv4a3) / Replication materials coming soon.
 
+**Martijn Schoonvelde**, Gijs Schumacher & Bert Bakker. (n.d.). "Friends with Text as Data Benefits: Assessing and Extending the Use of Automated Text Analysis in Political Science and Political Psychology." Forthcoming at *Journal of Social and Political Psychology*. [Pre-print](https://osf.io/vzykp/) / Replication materials coming soon.
+
 Christopher Williams & **Martijn Schoonvelde**. (2018). "It Takes Three: How Mass Media Coverage Conditions Public Responsiveness to Policy Outputs in the United States." *Social Science Quarterly, 99(5)*: 1627--1636. [Pre-print](https://osf.io/ymvfb) / [Replication Materials](http://christopherwilliamsphd.weebly.com/data.html)
 
 Erik de Vries, **Martijn Schoonvelde** & Gijs Schumacher. (2018). "No Longer Lost in Translation. Evidence that Google Translate Works for Comparative Bag-of-Words Text Applications." *Political Analysis, 26(4)*: 417--430. [Paper](https://www.cambridge.org/core/journals/political-analysis/article/no-longer-lost-in-translation-evidence-that-google-translate-works-for-comparative-bagofwords-text-applications/43CB03805973BB8AD567F7AE50E72CA6) / [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VKMY6N)
