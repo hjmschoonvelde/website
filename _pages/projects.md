@@ -8,7 +8,6 @@ description:
 
 *Under Review*
 
-- Errors Have Been Made, Others Will Be Blamed: Blame Avoidance and Blame-Shifting in Prime Minister Speeches During the Economic Crisis in Europe (with Denise Traber and Gijs Schumacher) [Paper](https://osf.io/kg6qs/)
 - Competition in Media Systems and Voter Knowledge: An Agent-Based Model [Paper](https://osf.io/u7wbr/)
 - Undermining, defusing, or defending European integration? Public communication of European executives in times of EU politicization (with Bart Bes and Christian Rauh)
 

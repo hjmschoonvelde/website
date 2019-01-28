@@ -8,6 +8,8 @@ description:
 
 *Peer-Reviewed Articles*
 
+Denise Traber, **Martijn Schoonvelde**& Gijs Schumacher. (n.d.). "Errors Have Been Made, Others Will Be Blamed: Blame Avoidance and Blame-Shifting in Prime Minister Speeches During the Economic Crisis in Europe." Forthcoming at *European Journal of Political Research* [Paper](https://osf.io/kg6qs/) / [Replication materials coming soon].
+
 **Martijn Schoonvelde**, Anna Brosius, Gijs Schumacher & Bert Bakker. (n.d.). "Liberals Lecture, Conservatives Communicate." Forthcoming at *PLOS ONE*. [Pre-print](https://osf.io/xv4a3) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S4IZ8K).
 
 **Martijn Schoonvelde**, Gijs Schumacher & Bert Bakker. (n.d.). "Friends with Text as Data Benefits: Assessing and Extending the Use of Automated Text Analysis in Political Science and Political Psychology." Forthcoming at *Journal of Social and Political Psychology*. [Pre-print](https://osf.io/vzykp/) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2PNZNU).
