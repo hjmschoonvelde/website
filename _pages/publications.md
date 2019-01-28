@@ -8,7 +8,7 @@ description:
 
 *Peer-Reviewed Articles*
 
-Denise Traber, **Martijn Schoonvelde** & Gijs Schumacher. (n.d.). "Errors Have Been Made, Others Will Be Blamed: Blame Avoidance and Blame-Shifting in Prime Minister Speeches During the Economic Crisis in Europe." Forthcoming at *European Journal of Political Research*. [Paper](https://osf.io/kg6qs/) / [Replication materials coming soon].
+Denise Traber, **Martijn Schoonvelde** & Gijs Schumacher. (n.d.). "Errors Have Been Made, Others Will Be Blamed: Blame Avoidance and Blame-Shifting in Prime Minister Speeches During the Economic Crisis in Europe." Forthcoming at *European Journal of Political Research*. [Pre-print](https://osf.io/kg6qs/) / [Replication materials coming soon].
 
 **Martijn Schoonvelde**, Anna Brosius, Gijs Schumacher & Bert Bakker. (n.d.). "Liberals Lecture, Conservatives Communicate." Forthcoming at *PLOS ONE*. [Pre-print](https://osf.io/xv4a3) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S4IZ8K).
 
