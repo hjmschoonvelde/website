@@ -10,9 +10,9 @@ description:
 
 Denise Traber, **Martijn Schoonvelde** & Gijs Schumacher. (n.d.). "Errors Have Been Made, Others Will Be Blamed: Blame Avoidance and Blame-Shifting in Prime Minister Speeches During the Economic Crisis in Europe." Forthcoming at *European Journal of Political Research*. [Pre-print](https://osf.io/kg6qs/) / [Replication materials coming soon].
 
-**Martijn Schoonvelde**, Anna Brosius, Gijs Schumacher & Bert Bakker. (n.d.). "Liberals Lecture, Conservatives Communicate." Forthcoming at *PLOS ONE*. [Pre-print](https://osf.io/xv4a3) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S4IZ8K).
+**Martijn Schoonvelde**, Anna Brosius, Gijs Schumacher & Bert Bakker. (2019). "Liberals Lecture, Conservatives Communicate: Analyzing complexity and ideology in 381,609 political speeches." *PLoS ONE, 14(2)*: e0208450. [Paper](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0208450&fbclid=IwAR0CHudjaT6Pb9qNwGOazvnkQYpJWhzN8Mt3CuoB171yR_WFxZ1nHBDC5r0) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S4IZ8K).
 
-**Martijn Schoonvelde**, Gijs Schumacher & Bert Bakker. (n.d.). "Friends with Text as Data Benefits: Assessing and Extending the Use of Automated Text Analysis in Political Science and Political Psychology." Forthcoming at *Journal of Social and Political Psychology*. [Pre-print](https://osf.io/vzykp/) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2PNZNU).
+**Martijn Schoonvelde**, Gijs Schumacher & Bert Bakker. (n.d.). "Friends with Text as Data Benefits: Assessing and Extending the Use of Automated Text Analysis in Political Science and Political Psychology." *Journal of Social and Political Psychology, 7(1)*: 124--143. [Pre-print](https://osf.io/vzykp/) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2PNZNU).
 
 Christopher Williams & **Martijn Schoonvelde**. (2018). "It Takes Three: How Mass Media Coverage Conditions Public Responsiveness to Policy Outputs in the United States." *Social Science Quarterly, 99(5)*: 1627--1636. [Pre-print](https://osf.io/ymvfb) / [Replication materials](http://christopherwilliamsphd.weebly.com/data.html)
 
