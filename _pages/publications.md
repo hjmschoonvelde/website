@@ -8,7 +8,7 @@ description:
 
 *Peer-Reviewed Articles*
 
-Christian Rauh, Bart Bes & **Martijn Schoonvelde**  (n.d.). ``Undermining, defusing, or defending European integration? Public communication of European executives in times of EU politicization." Forthcoming at *European Journal of Political Research*. 
+Christian Rauh, Bart Bes & **Martijn Schoonvelde**  (n.d.). "Undermining, defusing, or defending European integration? Public communication of European executives in times of EU politicization." Forthcoming at *European Journal of Political Research*. 
 
 Denise Traber, **Martijn Schoonvelde** & Gijs Schumacher. (n.d.). "Errors Have Been Made, Others Will Be Blamed: Blame Avoidance and Blame-Shifting in Prime Minister Speeches During the Economic Crisis in Europe." Forthcoming at *European Journal of Political Research*. [Pre-print](https://osf.io/kg6qs/) / [Replication materials coming soon].
 
