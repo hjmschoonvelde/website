@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-06-18 15:59:00-0400
+date: 2018-10-23 15:59:00-0400
 inline: true
 ---
 
-Summer Institute in Computational Social Science [(SICSS)](https://compsocialscience.github.io/summer-institute/2018/).
+Mind, Text and Mining seminar with James Pennebaker.
