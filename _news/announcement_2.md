@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-11-22 15:59:00-0400
+date: 2019-05-16 15:59:00-0400
 inline: true
 ---
 
-Mind, Text and Mining seminar with Piero Tortola.
+Text analysis course for MA students at [CEU](https://politicalscience.ceu.edu/). Materials [here](https://github.com/hjmschoonvelde/CEU_ATA_2019).
