@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Connected_Politics
+title: lab
 permalink: /lab/
 description:
 ---
