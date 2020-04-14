@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-11-11 15:59:00-0400
+date: 2020-04-13 15:59:00-0400
 inline: true
 ---
 
-Connected\_Politics Lab website [online](https://www.ucd.ie/connected_politics/).
+New MSc in [Politics and Data Science](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W473) accepting students for Fall 2020

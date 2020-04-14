@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-01-01 15:59:00-0400
+date: 2019-05-16 15:59:00-0400
 inline: true
 ---
 
-Started a new job at University College Dublin.
+Text analysis course for MA students at [CEU](https://politicalscience.ceu.edu/). Materials [here](https://github.com/hjmschoonvelde/CEU_ATA_2019).
