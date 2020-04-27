@@ -18,7 +18,7 @@ At UCD, CEU, Stony Brook and the Vrije Universiteit Amsterdam I have taught cour
 
 *Central European University*
 
-- MA Course *Automated Text Analysis in Political Science* (Spring 2018, Spring 2019): Introduction to [Syllabus]({{ site.url }}/assets/pdf/Syllabus_CEU.pdf) / [Course Materials](https://github.com/hjmschoonvelde/ceu_ata)
+- MA Course *Automated Text Analysis in Political Science* (Spring 2018--2020):[Syllabus]({{ site.url }}/assets/pdf/Syllabus_CEU.pdf) / [Course Materials](https://github.com/hjmschoonvelde/ceu_ata)
 
 *Vrije Universiteit*
 
