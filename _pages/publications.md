@@ -8,9 +8,9 @@ description:
 
 *Peer-Reviewed Articles*
 
-Christian Rauh, Bart Bes & **Martijn Schoonvelde**  (n.d.). "Undermining, Defusing, or Defending European integration? Public Communication of European Executives in Times of EU Politicization." Forthcoming at *European Journal of Political Research*. [Paper](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12350) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NDJY0J).
+Christian Rauh, Bart Bes & **Martijn Schoonvelde**  (2020). "Undermining, Defusing, or Defending European integration? Public Communication of European Executives in Times of EU Politicization." *European Journal of Political Research, 59(2)*: 397--423. [Paper](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12350) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NDJY0J).
 
-Denise Traber, **Martijn Schoonvelde** & Gijs Schumacher. (n.d.). "Errors Have Been Made, Others Will Be Blamed: Blame Avoidance and Blame-Shifting in Prime Minister Speeches During the Economic Crisis in Europe." Forthcoming at *European Journal of Political Research*. [Paper](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12340) / [Replication materials](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12340).
+Denise Traber, **Martijn Schoonvelde** & Gijs Schumacher. (2020). "Errors Have Been Made, Others Will Be Blamed: Blame Avoidance and Blame-Shifting in Prime Minister Speeches During the Economic Crisis in Europe." *European Journal of Political Research, 59(1)*: 45--67. [Paper](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12340) / [Replication materials](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12340).
 
 **Martijn Schoonvelde**, Anna Brosius, Gijs Schumacher & Bert Bakker. (2019). "Liberals Lecture, Conservatives Communicate: Analyzing Complexity and Ideology in 381,609 Political Speeches." *PLoS ONE, 14(2)*: e0208450. [Paper](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0208450&fbclid=IwAR0CHudjaT6Pb9qNwGOazvnkQYpJWhzN8Mt3CuoB171yR_WFxZ1nHBDC5r0) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S4IZ8K).
 
