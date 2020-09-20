@@ -8,6 +8,8 @@ description:
 
 *Peer-Reviewed Articles*
 
+Carsten Schwemmer, Carly Knight, Emily Bello-Pardo, Stan Oklobdzija, **Martijn Schoonvelde** & Jeff Lockhart. (2020). "Diagnosing Gender Bias in Image Recognition Systems." Forthcoming *Socius*
+
 Christian Rauh, Bart Bes & **Martijn Schoonvelde**  (2020). "Undermining, Defusing, or Defending European integration? Public Communication of European Executives in Times of EU Politicization." *European Journal of Political Research, 59(2)*: 397--423. [Paper](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12350) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NDJY0J).
 
 Denise Traber, **Martijn Schoonvelde** & Gijs Schumacher. (2020). "Errors Have Been Made, Others Will Be Blamed: Blame Avoidance and Blame-Shifting in Prime Minister Speeches During the Economic Crisis in Europe." *European Journal of Political Research, 59(1)*: 45--67. [Paper](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12340) / [Replication materials](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12340).
