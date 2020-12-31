@@ -11,14 +11,14 @@ At UCD, CEU, Stony Brook and the Vrije Universiteit Amsterdam I have taught cour
 *University College Dublin*
 
 - PhD Course *Social Science Methodology* (Spring 2019, Spring 2020)
-- MA Course *Automated Text Analysis* (Fall 2019)
-- MA Course *Research Design* (Spring 2019, Fall 2019)
-- BA Course *Comparative Politics* (Spring 2019, Spring 2020)
-- BA Course *Media and Politics* (Spring 2020) 
+- MA Course *Automated Text Analysis* (Fall 2019, Spring 2021)
+- MA Course *Research Design* (Spring 2019, Fall 2019, Fall 2020)
+- BA Course *Comparative Politics* (Spring 2019, Spring 2020, Spring 2021)
+- BA Course *Media and Politics* (Spring 2020, Fall 2020) 
 
 *Central European University*
 
-- MA Course *Automated Text Analysis in Political Science* (Spring 2018--2020):[Syllabus]({{ site.url }}/assets/pdf/Syllabus_CEU.pdf) / [Course Materials](https://github.com/hjmschoonvelde/ceu_ata)
+- MA Course *Automated Text Analysis in Political Science* (Spring 2018--2020):[Syllabus]({{ site.url }}/assets/pdf/Syllabus_CEU.pdf) / [Course Materials](https://github.com/hjmschoonvelde/ceu_ata_2019)
 
 *Vrije Universiteit*
 
