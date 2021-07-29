@@ -8,6 +8,8 @@ description:
 
 *Peer-Reviewed Articles*
 
+Sam Brazys & **Martijn Schoonvelde**. (nd) "Home Field Advantage? EU-ACP Economic Partnership Agreement Meeting Locations and Textual Tone." Forthcoming at *Journal of Common Market Studies*.
+
 Carsten Schwemmer, Carly Knight, Emily Bello-Pardo, Stan Oklobdzija, **Martijn Schoonvelde** & Jeff Lockhart. (2020). "Diagnosing Gender Bias in Image Recognition Systems." *Socius, 6* [Paper](https://journals.sagepub.com/doi/full/10.1177/2378023120967171) / [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2CEYWV).
 
 Christian Rauh, Bart Bes & **Martijn Schoonvelde**  (2020). "Undermining, Defusing, or Defending European integration? Public Communication of European Executives in Times of EU Politicization." *European Journal of Political Research, 59(2)*: 397--423. [Paper](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12350) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NDJY0J).
@@ -31,6 +33,8 @@ William Pollock, Jason Barabas, Jennifer Jerit, **Martijn Schoonvelde**, Susan B
 
 **Martijn Schoonvelde**. (2014). "Media Freedom and the Institutional Underpinnings of Political Knowledge." *Political Science Research & Methods, 2(2)*: 163--178. [Paper]({{ site.url }}/assets/pdf/Schoonvelde_PSRM.pdf) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/24122) 
 
-*Conference Proceedings*
+*Book Chapters and Conference Proceedings*
+
+**Martijn Schoonvelde**, Christian Pipal and Gijs Schumacher. (nd). "Text as Data in Political Psychology". Chapter forthcoming in *Atlas of Language Analysis in Psychology* (eds: Ryan Boyd and Morteza Deghani).
 
 Gijs Schumacher, **Martijn Schoonvelde**, Denise Traber, Tanushree Dahiya & Erik de Vries. (2016). "EUSpeech: a New Dataset of EU Elite Speeches." *Proceedings of the International Conference on the Advances in Computational Analysis of Political Text*, Dubrovnik, 75--80. [Paper]({{ site.url }}/assets/pdf/EUSpeech_Paper.pdf) / [Replication materials](https://dataverse.harvard.edu/dataverse/euspeech)
