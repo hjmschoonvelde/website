@@ -8,6 +8,8 @@ description:
 
 *Peer-Reviewed Articles*
 
+Christian Baden, Christian Pipal, **Martijn Schoonvelde**, Mariken van der Velden (nd). "Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda." Forthcoming *Communication Methods and Measures*.
+
 Sam Brazys & **Martijn Schoonvelde**. (nd) "Home Field Advantage? EU-ACP Economic Partnership Agreement Meeting Locations and Textual Tone." Forthcoming at *Journal of Common Market Studies*.
 
 Carsten Schwemmer, Carly Knight, Emily Bello-Pardo, Stan Oklobdzija, **Martijn Schoonvelde** & Jeff Lockhart. (2020). "Diagnosing Gender Bias in Image Recognition Systems." *Socius, 6* [Paper](https://journals.sagepub.com/doi/full/10.1177/2378023120967171) / [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2CEYWV).
