@@ -8,9 +8,12 @@ description:
 
 *Peer-Reviewed Articles*
 
-Christian Baden, Christian Pipal, **Martijn Schoonvelde**, Mariken van der Velden (nd). "Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda." Forthcoming *Communication Methods and Measures*.
 
-Sam Brazys & **Martijn Schoonvelde**. (nd) "Home Field Advantage? EU-ACP Economic Partnership Agreement Meeting Locations and Textual Tone." Forthcoming at *Journal of Common Market Studies*.
+Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2022). "Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty." *Proceedings of the National Academies of Sciences 119(44)*: e2203150119.
+
+Christian Baden, Christian Pipal, **Martijn Schoonvelde**, Mariken van der Velden (2022). "Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda." *Communication Methods and Measures, 16(1)*: 1--18.
+
+Sam Brazys & **Martijn Schoonvelde**. (2022) "Home Field Advantage? EU-ACP Economic Partnership Agreement Meeting Locations and Textual Tone." *Journal of Common Market Studies 60(4)*: 903--925.
 
 Carsten Schwemmer, Carly Knight, Emily Bello-Pardo, Stan Oklobdzija, **Martijn Schoonvelde** & Jeff Lockhart. (2020). "Diagnosing Gender Bias in Image Recognition Systems." *Socius, 6* [Paper](https://journals.sagepub.com/doi/full/10.1177/2378023120967171) / [Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2CEYWV).
 
