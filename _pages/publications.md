@@ -9,6 +9,10 @@ description:
 *Peer-Reviewed Articles*
 
 
+Rachel Graham, **Martijn Schoonvelde** & Marij Swinkels. (2023). Unpacking the European Commission’s fiscal policy response to crisis: mapping and explaining economic ideas in the European Semester 2011-22. Forthcoming at *Journal of European Public Policy*.
+
+Mariken van der Velden, **Martijn Schoonvelde** & Christian Baden. (2023). Introduction to the Special Issue on Multilingual Text Analysis. Forthcoming at *Computational Communication Research*.
+
 Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2022). "Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty." *Proceedings of the National Academies of Sciences 119(44)*: e2203150119.
 
 Christian Baden, Christian Pipal, **Martijn Schoonvelde**, Mariken van der Velden (2022). "Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda." *Communication Methods and Measures, 16(1)*: 1--18.
@@ -37,6 +41,10 @@ Benchmark to Investigate the Performance of Self-Reported Media Exposure." *Comm
 William Pollock, Jason Barabas, Jennifer Jerit, **Martijn Schoonvelde**, Susan Banducci & Daniel Stevens. (2015). "Studying Media Events in the European Social Surveys Across Research Designs, Countries, Time, Issues, and Outcomes." *European Political Science, 14(4)*: 394--421. [Paper]({{ site.url }}/assets/pdf/EPS.pdf) / Replication materials (please contact Jennifer Jerit)
 
 **Martijn Schoonvelde**. (2014). "Media Freedom and the Institutional Underpinnings of Political Knowledge." *Political Science Research & Methods, 2(2)*: 163--178. [Paper]({{ site.url }}/assets/pdf/Schoonvelde_PSRM.pdf) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/24122) 
+
+*Special issues edited*
+
+Mariken van der Velden, **Martijn Schoonvelde** & Christian Baden (Guest Editors) (2023). Multilingual Text Analysis. *Computational Communication Research*
 
 *Book Chapters and Conference Proceedings*
 
