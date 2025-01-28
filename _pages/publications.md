@@ -8,10 +8,13 @@ description:
 
 *Peer-Reviewed Articles*
 
+Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2025). The Reliability of Replications: A Study in Computational Reproductions”. Forthcoming at *Royal Society Open Science*.
 
-Rachel Graham, **Martijn Schoonvelde** & Marij Swinkels. (2023). Unpacking the European Commission’s fiscal policy response to crisis: mapping and explaining economic ideas in the European Semester 2011-22. Forthcoming at *Journal of European Public Policy*.
+Christian Pipal, **Martijn Schoonvelde**, Gijs Schumacher & Max Boiten. (2024). JST and rJST: Joint Estimation of Sentiment and Topics in Textual Data Using a Semi-Supervised Approach. *Communication Methods and Measures*, 1–-19
 
-Mariken van der Velden, **Martijn Schoonvelde** & Christian Baden. (2023). Introduction to the Special Issue on Multilingual Text Analysis. Forthcoming at *Computational Communication Research*.
+Rachel Graham, **Martijn Schoonvelde** & Marij Swinkels. (2024). Unpacking the European Commission’s fiscal policy response to crisis: mapping and explaining economic ideas in the European Semester 2011-22. *Journal of European Public Policy 31(11):* 3591--3616.[Replication materials](https://github.com/hjmschoonvelde/commission_ideas_project)
+
+Mariken van der Velden, **Martijn Schoonvelde** & Christian Baden. (2023). Introduction to the Special Issue on Multilingual Text Analysis. *Computational Communication Research 5(2):* 1--11.
 
 Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2022). "Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty." *Proceedings of the National Academies of Sciences 119(44)*: e2203150119.
 
