@@ -12,13 +12,13 @@ Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2025). The Reliability of
 
 Christian Pipal, **Martijn Schoonvelde**, Gijs Schumacher & Max Boiten. (2024). JST and rJST: Joint Estimation of Sentiment and Topics in Textual Data Using a Semi-Supervised Approach. *Communication Methods and Measures*, 1–-19
 
-Rachel Graham, **Martijn Schoonvelde** & Marij Swinkels. (2024). Unpacking the European Commission’s fiscal policy response to crisis: mapping and explaining economic ideas in the European Semester 2011-22. *Journal of European Public Policy 31(11):* 3591--3616.[Replication materials](https://github.com/hjmschoonvelde/commission_ideas_project)
+Rachel Graham, **Martijn Schoonvelde** & Marij Swinkels. (2024). Unpacking the European Commission’s fiscal policy response to crisis: mapping and explaining economic ideas in the European Semester 2011-22. *Journal of European Public Policy 31(11):* 3591--3616. [Replication materials](https://github.com/hjmschoonvelde/commission_ideas_project)
 
 Mariken van der Velden, **Martijn Schoonvelde** & Christian Baden. (2023). Introduction to the Special Issue on Multilingual Text Analysis. *Computational Communication Research 5(2):* 1--11.
 
 Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2022). "Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty." *Proceedings of the National Academies of Sciences 119(44)*: e2203150119.
 
-Christian Baden, Christian Pipal, **Martijn Schoonvelde**, Mariken van der Velden (2022). "Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda." *Communication Methods and Measures, 16(1)*: 1--18.
+Christian Baden, Christian Pipal, **Martijn Schoonvelde**, Mariken van der Velden (2022). "Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda." *Communication Methods and Measures, 16(1)*: 1--18. [Replication data](https://osf.io/fg6wq/?view_only=5461431075984e3185ea11dec2e20e44)
 
 Sam Brazys & **Martijn Schoonvelde**. (2022) "Home Field Advantage? EU-ACP Economic Partnership Agreement Meeting Locations and Textual Tone." *Journal of Common Market Studies 60(4)*: 903--925.
 
