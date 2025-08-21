@@ -8,6 +8,10 @@ description:
 
 *Peer-Reviewed Articles*
 
+Fabienne Lind, **Martijn Schoonvelde**, Christian Baden, Alona Dolinsky, Christian Pipal, and Mariken van der Velden. (2025). Grounding the comparative turn in communications: A framework for validating multilingual computational text analysis. Forthcoming at *Computational Communication Research*.
+
+James P. Cross, Derek Greene, Stefan M¨uller and **Martijn Schoonvelde**. (2025). Mapping digital campaign strategies: Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance. Forthcoming at *Computational Communication Research*.
+
 Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2025). The Reliability of Replications: A Study in Computational Reproductions”. Forthcoming at *Royal Society Open Science*.
 
 Christian Pipal, **Martijn Schoonvelde**, Gijs Schumacher & Max Boiten. (2024). JST and rJST: Joint Estimation of Sentiment and Topics in Textual Data Using a Semi-Supervised Approach. *Communication Methods and Measures*, 1–-19

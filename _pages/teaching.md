@@ -10,8 +10,9 @@ At RUG, UCD, CEU, Stony Brook and the Vrije Universiteit Amsterdam I have taught
 
 *University of Groningen*
 
-- MA Course *EU in the Media* (Spring 2022, Spring 2023, Fall 2023, Spring 2025)
-- BA Course *Applied Research Methods* (Fall 2023, Fall 2024)
+- MA Course *EU in the Media* (Spring 2022, Spring 2023, Fall 2023, Spring 2025, Fall 2025)
+- BA Course *Advanced European Studies* (Fall 20025)
+- BA Course *Applied Research Methods* (Fall 2023, Fall 2024, Fall 20025)
 - BA Course *Themes in European Politics* (Spring 2023, Spring 2024)
 - BA Course *Research Seminar* (Spring 2022--2025)
 - BA Course *Advanced Research Seminar A* (Spring 2024, Spring 2025)
