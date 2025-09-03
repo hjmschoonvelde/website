@@ -10,15 +10,15 @@ description:
 
 Fabienne Lind, **Martijn Schoonvelde**, Christian Baden, Alona Dolinsky, Christian Pipal, and Mariken van der Velden. (2025). Grounding the comparative turn in communications: A framework for validating multilingual computational text analysis. Forthcoming at *Computational Communication Research*.
 
-James P. Cross, Derek Greene, Stefan M¨uller and **Martijn Schoonvelde**. (2025). Mapping digital campaign strategies: Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance. Forthcoming at *Computational Communication Research*.
+James P. Cross, Derek Greene, Stefan Müller and **Martijn Schoonvelde**. (2025). Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance. Forthcoming at *Computational Communication Research*.
 
-Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2025). The Reliability of Replications: A Study in Computational Reproductions”. Forthcoming at *Royal Society Open Science*.
+Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2025). The Reliability of Replications: A Study in Computational Reproductions”. *Royal Society Open Science12(3)*, 241038.[Paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.241038)
 
-Christian Pipal, **Martijn Schoonvelde**, Gijs Schumacher & Max Boiten. (2024). JST and rJST: Joint Estimation of Sentiment and Topics in Textual Data Using a Semi-Supervised Approach. *Communication Methods and Measures*, 1–-19
+Christian Pipal, **Martijn Schoonvelde**, Gijs Schumacher & Max Boiten. (2024). JST and rJST: Joint Estimation of Sentiment and Topics in Textual Data Using a Semi-Supervised Approach. *Communication Methods and Measures 19(2):* 112--130. [Paper](https://www.tandfonline.com/doi/pdf/10.1080/19312458.2024.2383453)
 
 Rachel Graham, **Martijn Schoonvelde** & Marij Swinkels. (2024). Unpacking the European Commission’s fiscal policy response to crisis: mapping and explaining economic ideas in the European Semester 2011-22. *Journal of European Public Policy 31(11):* 3591--3616. [Replication materials](https://github.com/hjmschoonvelde/commission_ideas_project)
 
-Mariken van der Velden, **Martijn Schoonvelde** & Christian Baden. (2023). Introduction to the Special Issue on Multilingual Text Analysis. *Computational Communication Research 5(2):* 1--11.
+Mariken van der Velden, **Martijn Schoonvelde** & Christian Baden. (2023). Introduction to the Special Issue on Multilingual Text Analysis. *Computational Communication Research 5(2):* 1--11.[Paper](https://journal.computationalcommunication.org/article/view/4772)
 
 Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2022). "Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty." *Proceedings of the National Academies of Sciences 119(44)*: e2203150119.
 
