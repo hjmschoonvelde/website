@@ -14,7 +14,7 @@ James P. Cross, Derek Greene, Stefan Müller and **Martijn Schoonvelde**. (2025)
 
 Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2025). The Reliability of Replications: A Study in Computational Reproductions. *Royal Society Open Science12(3)*, 241038. [Paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.241038) / [Replication materials](https://github.com/nbreznau/how_many_replicators).
 
-Christian Pipal, **Martijn Schoonvelde**, Gijs Schumacher & Max Boiten. (2024). JST and rJST: Joint Estimation of Sentiment and Topics in Textual Data Using a Semi-Supervised Approach. *Communication Methods and Measures 19(2):* 112--130. [Paper](https://www.tandfonline.com/doi/pdf/10.1080/19312458.2024.2383453).
+Christian Pipal, **Martijn Schoonvelde**, Gijs Schumacher & Max Boiten. (2024). JST and rJST: Joint Estimation of Sentiment and Topics in Textual Data Using a Semi-Supervised Approach. *Communication Methods and Measures 19(2):* 112--130. [Paper](https://www.tandfonline.com/doi/pdf/10.1080/19312458.2024.2383453) / [Replication materials](https://osf.io/e56tu/).
 
 Rachel Graham, **Martijn Schoonvelde** & Marij Swinkels. (2024). Unpacking the European Commission’s fiscal policy response to crisis: mapping and explaining economic ideas in the European Semester 2011-22. *Journal of European Public Policy 31(11):* 3591--3616. [Paper](https://www.tandfonline.com/doi/pdf/10.1080/13501763.2023.2274347) / [Replication materials](https://github.com/hjmschoonvelde/commission_ideas_project).
 
