@@ -20,9 +20,9 @@ Rachel Graham, **Martijn Schoonvelde** & Marij Swinkels. (2024). Unpacking the E
 
 Mariken van der Velden, **Martijn Schoonvelde** & Christian Baden. (2023). Introduction to the Special Issue on Multilingual Text Analysis. *Computational Communication Research 5(2):* 1--11. [Paper](https://journal.computationalcommunication.org/article/view/4772)
 
-Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2022). "Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty." *Proceedings of the National Academies of Sciences 119(44)*: e2203150119.
+Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2022). "Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty." *Proceedings of the National Academies of Sciences 119(44)*: e2203150119. [Paper](https://doi.org/10.1073/pnas.2203150119)
 
-Christian Baden, Christian Pipal, **Martijn Schoonvelde**, Mariken van der Velden (2022). "Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda." *Communication Methods and Measures, 16(1)*: 1--18. [Replication data](https://osf.io/fg6wq/?view_only=5461431075984e3185ea11dec2e20e44)
+Christian Baden, Christian Pipal, **Martijn Schoonvelde**, Mariken van der Velden (2022). "Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda." *Communication Methods and Measures, 16(1)*: 1--18. [Paper](https://doi.org/10.1080/19312458.2021.2015574) /  [Replication data](https://osf.io/fg6wq/?view_only=5461431075984e3185ea11dec2e20e44)
 
 Sam Brazys & **Martijn Schoonvelde**. (2022) "Home Field Advantage? EU-ACP Economic Partnership Agreement Meeting Locations and Textual Tone." *Journal of Common Market Studies 60(4)*: 903--925. [Paper]( https://doi.org/10.1111/jcms.13290)
 
