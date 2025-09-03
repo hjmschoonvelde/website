@@ -12,7 +12,7 @@ Fabienne Lind, **Martijn Schoonvelde**, Christian Baden, Alona Dolinsky, Christi
 
 James P. Cross, Derek Greene, Stefan Müller and **Martijn Schoonvelde**. (2025). Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance. Forthcoming at *Computational Communication Research*.
 
-Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2025). The Reliability of Replications: A Study in Computational Reproductions”. *Royal Society Open Science12(3)*, 241038. [Paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.241038).
+Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2025). The Reliability of Replications: A Study in Computational Reproductions. *Royal Society Open Science12(3)*, 241038. [Paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.241038) / [Replication materials](https://github.com/nbreznau/how_many_replicators).
 
 Christian Pipal, **Martijn Schoonvelde**, Gijs Schumacher & Max Boiten. (2024). JST and rJST: Joint Estimation of Sentiment and Topics in Textual Data Using a Semi-Supervised Approach. *Communication Methods and Measures 19(2):* 112--130. [Paper](https://www.tandfonline.com/doi/pdf/10.1080/19312458.2024.2383453).
 
@@ -20,13 +20,13 @@ Rachel Graham, **Martijn Schoonvelde** & Marij Swinkels. (2024). Unpacking the E
 
 Mariken van der Velden, **Martijn Schoonvelde** & Christian Baden. (2023). Introduction to the Special Issue on Multilingual Text Analysis. *Computational Communication Research 5(2):* 1--11. [Paper](https://journal.computationalcommunication.org/article/view/4772).
 
-Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2022). "Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty." *Proceedings of the National Academies of Sciences 119(44)*: e2203150119. [Paper](https://doi.org/10.1073/pnas.2203150119).
+Nate Breznau, Eike. M. Rinke, Alexander Wuttke et al. (2022). "Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty." *Proceedings of the National Academies of Sciences 119(44)*: e2203150119. [Paper](https://doi.org/10.1073/pnas.2203150119) / [Replication materials](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/UUP8CX).
 
 Christian Baden, Christian Pipal, **Martijn Schoonvelde**, Mariken van der Velden (2022). "Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda." *Communication Methods and Measures, 16(1)*: 1--18. [Paper](https://doi.org/10.1080/19312458.2021.2015574) /  [Replication materials](https://osf.io/fg6wq/?view_only=5461431075984e3185ea11dec2e20e44).
 
 Sam Brazys & **Martijn Schoonvelde**. (2022) "Home Field Advantage? EU-ACP Economic Partnership Agreement Meeting Locations and Textual Tone." *Journal of Common Market Studies 60(4)*: 903--925. [Paper]( https://doi.org/10.1111/jcms.13290).
 
-Carsten Schwemmer, Carly Knight, Emily Bello-Pardo, Stan Oklobdzija, **Martijn Schoonvelde** & Jeff Lockhart. (2020). "Diagnosing Gender Bias in Image Recognition Systems." *Socius, 6* [Paper](https://journals.sagepub.com/doi/full/10.1177/2378023120967171) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2CEYWV).
+Carsten Schwemmer, Carly Knight, Emily Bello-Pardo, Stan Oklobdzija, **Martijn Schoonvelde** & Jeff Lockhart. (2020). "Diagnosing Gender Bias in Image Recognition Systems." *Socius, 6.* [Paper](https://journals.sagepub.com/doi/full/10.1177/2378023120967171) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2CEYWV).
 
 Christian Rauh, Bart Bes & **Martijn Schoonvelde**  (2020). "Undermining, Defusing, or Defending European integration? Public Communication of European Executives in Times of EU Politicization." *European Journal of Political Research, 59(2)*: 397--423. [Paper](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12350) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NDJY0J).
 
