@@ -8,7 +8,7 @@ description:
 
 *Peer-Reviewed Articles*
 
-Fabienne Lind, **Martijn Schoonvelde**, Christian Baden, Alona Dolinsky, Christian Pipal, and Mariken van der Velden. (2025). Grounding the comparative turn in communications: A framework for validating multilingual computational text analysis. *Computational Communication Research, 7(1)*, pp. 1--26.[Paper](https://www.aup-online.com/content/journals/10.5117/CCR2025.1.13.LIND)
+Fabienne Lind, **Martijn Schoonvelde**, Christian Baden, Alona Dolinsky, Christian Pipal, and Mariken van der Velden. (2025). Grounding the comparative turn in communications: A framework for validating multilingual computational text analysis. *Computational Communication Research, 7(1)*, pp. 1--26. [Paper](https://www.aup-online.com/content/journals/10.5117/CCR2025.1.13.LIND)
 
 James P. Cross, Derek Greene, Stefan Müller and **Martijn Schoonvelde**. (2025). Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance. *Computational Communication Research, 7(1)*, pp. 1--32. [Paper](https://www.aup-online.com/content/journals/10.5117/CCR2025.1.12.CROS) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YIRC0U).
 
