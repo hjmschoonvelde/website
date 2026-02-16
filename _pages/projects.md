@@ -14,3 +14,4 @@ description:
 - Moderation or Amplification? Mapping speech distinctiveness among Green parties using a fictitious prediction problem approach (with Clint Claessen and Denise Traber)
 - Golden Age Politics: A Computational-Interpretive Analysis of the “Gouden Eeuw” as a Trope in Dutch Parliamentary Speech, 1945-2024 (with Stefan Couperus)
 - Challenges for multilingual computational text analysis researchers: evidence from a survey of social scientists (with Fabienne Lind, Christian Baden, Alona Dolinsky, Christian Pipal, Avital Zalik, Guy Shababo, and Mariken van der Velden)
+- Speaking of experts: Attitudinal evidence on the politics of expertise from a cross-national deliberative exercise (with Piero Tortola)
