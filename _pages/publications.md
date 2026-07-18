@@ -8,7 +8,11 @@ description:
 
 *Peer-Reviewed Articles*
 
-Fabienne Lind, **Martijn Schoonvelde**, Christian Baden, Alona Dolinsky, Christian Pipal, and Mariken van der Velden. (2025). Grounding the comparative turn in communications: A framework for validating multilingual computational text analysis. *Computational Communication Research, 7(1)*, pp. 1--26. [Paper](https://www.aup-online.com/content/journals/10.5117/CCR2025.1.13.LIND)
+Clint Claessen, Denise Traber & **Martijn Schoonvelde**. (nd). Moderation or Amplification? Mapping speech distinctiveness among Green parties using a fictitious prediction problem approach. Forthcoming at *Legislative Studies Quarterly*. [Replication materials](https://github.com/clint-claessen/lsq70077)
+
+Rosalie van Beuningen, **Martijn Schoonvelde** & Pieter de Wilde. (nd). Responding or responsiveness? How politicisation influences the European Commission?s policy formulation. Forthcoming at *Journal of European Public Policy*. [Replication materials](https://github.com/hjmschoonvelde/commission_politicisation)
+
+Fabienne Lind, **Martijn Schoonvelde**, Christian Baden, Alona Dolinsky, Christian Pipal, & Mariken van der Velden. (2025). Grounding the comparative turn in communications: A framework for validating multilingual computational text analysis. *Computational Communication Research, 7(1)*, pp. 1--26. [Paper](https://www.aup-online.com/content/journals/10.5117/CCR2025.1.13.LIND)
 
 James P. Cross, Derek Greene, Stefan Müller and **Martijn Schoonvelde**. (2025). Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance. *Computational Communication Research, 7(1)*, pp. 1--32. [Paper](https://www.aup-online.com/content/journals/10.5117/CCR2025.1.12.CROS) / [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YIRC0U).
 
@@ -55,6 +59,8 @@ Mariken van der Velden, **Martijn Schoonvelde** & Christian Baden (Guest Editors
 
 *Book Chapters and Conference Proceedings*
 
-**Martijn Schoonvelde**, Christian Pipal and Gijs Schumacher. (nd). "Text as Data in Political Psychology". Chapter forthcoming in *Atlas of Language Analysis in Psychology* (eds: Ryan Boyd and Morteza Deghani).
+Stefan Couperus & **Martijn Schoonvelde**. (2026). Golden Age Politics: A Computational-Interpretive Analysis of the “Gouden Eeuw” as a Trope in Dutch Parliamentary Speech, 1945-2024. In Revived Futures: The Turn to the Past in European Politics (eds. Katarina Pettersson, Kalle Eriksson & Manuel Menke). [Replication materials](https://github.com/hjmschoonvelde/gouden_eeuw_project)
+
+**Martijn Schoonvelde**, Christian Pipal & Gijs Schumacher. (nd). "Text as Data in Political Psychology". Chapter forthcoming in *Atlas of Language Analysis in Psychology* (eds: Ryan Boyd and Morteza Deghani).
 
 Gijs Schumacher, **Martijn Schoonvelde**, Denise Traber, Tanushree Dahiya & Erik de Vries. (2016). "EUSpeech: a New Dataset of EU Elite Speeches." *Proceedings of the International Conference on the Advances in Computational Analysis of Political Text*, Dubrovnik, 75--80. [Paper]({{ site.url }}/assets/pdf/EUSpeech_Paper.pdf) / [Replication materials](https://dataverse.harvard.edu/dataverse/euspeech)

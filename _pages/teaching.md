@@ -6,12 +6,12 @@ description:
 ---
 
 
-At RUG, UCD, CEU, Stony Brook and the Vrije Universiteit Amsterdam I have taught courses at both the undergraduate and the graduate level. In addition, I received a teaching certificate at the European University Institute and the RUG (BKO).
+At the RUG, UCD, CEU, Stony Brook and the Vrije Universiteit Amsterdam I have taught courses at both the undergraduate and the graduate level. In addition, I received a teaching certificate at the EUI and the RUG (BKO).
 
 *University of Groningen*
 
-- MA Course *EU in the Media* (Spring 2022, Spring 2023, Fall 2023, Spring 2025, Fall 2025)
-- BA Course *Advanced European Studies* (Fall 2025)
+- MA Course *EU in the Media* (Spring 2022, Spring 2023, Fall 2023, Spring 2025, Fall 2025, Fall 2026)
+- BA Course *Advanced European Studies* (Fall 2025, Fall 2026)
 - BA Course *Applied Research Methods* (Fall 2023, Fall 2024, Fall 2025)
 - BA Course *Themes in European Politics* (Spring 2023, Spring 2024)
 - BA Course *Research Seminar* (Spring 2022--2026)
