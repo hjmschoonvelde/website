@@ -8,7 +8,7 @@ description:
 
 *Peer-Reviewed Articles*
 
-Clint Claessen, Denise Traber & **Martijn Schoonvelde**. (nd). Moderation or Amplification? Mapping speech distinctiveness among Green parties using a fictitious prediction problem approach. Forthcoming at *Legislative Studies Quarterly*. [Paper](https://onlinelibrary.wiley.com/doi/10.1111/lsq.70077) / [Replication materials](https://github.com/clint-claessen/lsq70077). 
+Clint Claessen, Denise Traber & **Martijn Schoonvelde**. (2026). Moderation or Amplification? Mapping speech distinctiveness among Green parties using a fictitious prediction problem approach. Forthcoming at *Legislative Studies Quarterly*. [Paper](https://onlinelibrary.wiley.com/doi/10.1111/lsq.70077) / [Replication materials](https://github.com/clint-claessen/lsq70077). 
 
 Rosalie van Beuningen, **Martijn Schoonvelde** & Pieter de Wilde. (nd). Responding or responsiveness? How politicisation influences the European Commission's policy formulation. Forthcoming at *Journal of European Public Policy*. [Replication materials](https://github.com/hjmschoonvelde/commission_politicisation). 
 
