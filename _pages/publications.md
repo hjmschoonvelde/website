@@ -8,9 +8,11 @@ description:
 
 *Peer-Reviewed Articles*
 
+Alona Dolinsky, **Martijn Schoonvelde**, Fabienne Lind, Christian Baden, Christian Pipal, Avital Zalik, Guy Shababo & Mariken van der Velden. (nd). Challenges for multilingual computational text analysis researchers: evidence from a survey of social scientists. Forthcoming at *Acta Politica*.
+
 Clint Claessen, Denise Traber & **Martijn Schoonvelde**. (2026). Moderation or Amplification? Mapping speech distinctiveness among Green parties using a fictitious prediction problem approach.*Legislative Studies Quarterly, 51(3)*. [Paper](https://onlinelibrary.wiley.com/doi/10.1111/lsq.70077) / [Replication materials](https://github.com/clint-claessen/lsq70077). 
 
-Rosalie van Beuningen, **Martijn Schoonvelde** & Pieter de Wilde. (nd). Responding or responsiveness? How politicisation influences the European Commission's policy formulation. Forthcoming at *Journal of European Public Policy*. [Paper](https://www.tandfonline.com/doi/epub/10.1080/13501763.2026.2708116?needAccess=true) / [Replication materials](https://github.com/hjmschoonvelde/commission_politicisation). 
+Rosalie van Beuningen, **Martijn Schoonvelde** & Pieter de Wilde. (2026). Responding or responsiveness? How politicisation influences the European Commission's policy formulation. *Journal of European Public Policy*. [Paper](https://www.tandfonline.com/doi/epub/10.1080/13501763.2026.2708116?needAccess=true) / [Replication materials](https://github.com/hjmschoonvelde/commission_politicisation). 
 
 Fabienne Lind, **Martijn Schoonvelde**, Christian Baden, Alona Dolinsky, Christian Pipal, & Mariken van der Velden. (2025). Grounding the comparative turn in communications: A framework for validating multilingual computational text analysis. *Computational Communication Research, 7(1)*, pp. 1--26. [Paper](https://www.aup-online.com/content/journals/10.5117/CCR2025.1.13.LIND). 
 
